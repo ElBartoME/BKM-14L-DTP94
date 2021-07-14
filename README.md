@@ -1,0 +1,2 @@
+# BKM-14L-DTP94
+Python software to act as a bridge between a DTP94 and Sony BVM. Only the Minolta mode is working at the moment.
